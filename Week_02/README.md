@@ -10,3 +10,4 @@
 [1021](https://leetcode-cn.com/problems/remove-outermost-parentheses/) | 删除最外层的括号 | 20200818 | 20200819 | 20200826 | 20200926
 [283](https://leetcode-cn.com/problems/move-zeroes/) | 移动零 | 20200818 | 20200819 | 20200826 | 20200926
 [11](https://leetcode-cn.com/problems/container-with-most-water/) | 盛最多水的容器 | 20200818 | 20200819 | 20200826 | 20200926
+[剑指 Offer 59 - I](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | 滑动窗口的最大值 | 20200819 | 20200820 | 20200827 | 20200927
