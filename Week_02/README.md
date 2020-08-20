@@ -14,3 +14,5 @@
 [412](https://leetcode-cn.com/problems/fizz-buzz/) | Fizz Buzz | 20200820 | 20200821 | 20200828 | 20200928
 [1](https://leetcode-cn.com/problems/two-sum/) | 两数之和 | 20200820 | 20200821 | 20200828 | 20200928
 [26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 删除排序数组中的重复项 | 20200820 | 20200821 | 20200828 | 20200928
+[189](https://leetcode-cn.com/problems/rotate-array/) | 旋转数组 | 20200820 | 20200821 | 20200828 | 20200928
+[42](https://leetcode-cn.com/problems/trapping-rain-water/) | 接雨水 | 20200820 | 20200821 | 20200828 | 20200928
