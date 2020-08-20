@@ -11,3 +11,6 @@
 [283](https://leetcode-cn.com/problems/move-zeroes/) | 移动零 | 20200818 | 20200819 | 20200826 | 20200926
 [11](https://leetcode-cn.com/problems/container-with-most-water/) | 盛最多水的容器 | 20200818 | 20200819 | 20200826 | 20200926
 [剑指 Offer 59 - I](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | 滑动窗口的最大值 | 20200819 | 20200820 | 20200827 | 20200927
+[412](https://leetcode-cn.com/problems/fizz-buzz/) | Fizz Buzz | 20200820 | 20200821 | 20200828 | 20200928
+[1](https://leetcode-cn.com/problems/two-sum/) | 两数之和 | 20200820 | 20200821 | 20200828 | 20200928
+[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 删除排序数组中的重复项 | 20200820 | 20200821 | 20200828 | 20200928

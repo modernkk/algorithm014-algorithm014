@@ -14,11 +14,7 @@ function twoSum(nums: number[], target: number): number[] {
         }
         map.set(nums[i], i);
     }
-    let result: number[] = [];
-    for (let j of map.keys()) {
-        result.push(j);
-    }
-    return result;
+    return [];
 };
 // @lc code=end
 
