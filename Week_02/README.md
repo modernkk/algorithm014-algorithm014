@@ -16,3 +16,4 @@
 [26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 删除排序数组中的重复项 | 20200820 | 20200821 | 20200828 | 20200928
 [189](https://leetcode-cn.com/problems/rotate-array/) | 旋转数组 | 20200820 | 20200821 | 20200828 | 20200928
 [42](https://leetcode-cn.com/problems/trapping-rain-water/) | 接雨水 | 20200820 | 20200821 | 20200828 | 20200928
+[258](https://leetcode-cn.com/problems/add-digits/) | 各位相加 | 20200821 | 20200822 | 20200829 | 20200929
