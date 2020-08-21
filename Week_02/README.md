@@ -19,3 +19,4 @@
 [258](https://leetcode-cn.com/problems/add-digits/) | 各位相加 | 20200821 | 20200822 | 20200829 | 20200929
 [21](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | 合并两个有序链表 | 20200821 | 20200822 | 20200829 | 20200929
 [88](https://leetcode-cn.com/problems/merge-sorted-array/) | 合并两个有序数组 | 20200821 | 20200822 | 20200829 | 20200929
+[94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 二叉树的中序遍历 | 20200821 | 20200822 | 20200829 | 20200929
