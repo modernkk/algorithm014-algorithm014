@@ -20,3 +20,4 @@
 [21](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | 合并两个有序链表 | 20200821 | 20200822 | 20200829 | 20200929
 [88](https://leetcode-cn.com/problems/merge-sorted-array/) | 合并两个有序数组 | 20200821 | 20200822 | 20200829 | 20200929
 [94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 二叉树的中序遍历 | 20200821 | 20200822 | 20200829 | 20200929
+[104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | 二叉树的最大深度 | 20200822 | 20200823 | 20200830 | 20200930
