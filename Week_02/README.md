@@ -20,4 +20,10 @@
 [21](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | 合并两个有序链表 | 20200821 | 20200822 | 20200829 | 20200929
 [88](https://leetcode-cn.com/problems/merge-sorted-array/) | 合并两个有序数组 | 20200821 | 20200822 | 20200829 | 20200929
 [94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 二叉树的中序遍历 | 20200821 | 20200822 | 20200829 | 20200929
+[144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | 二叉树的前序遍历 | 20200821 | 20200822 | 20200829 | 20200929
 [104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | 二叉树的最大深度 | 20200822 | 20200823 | 20200830 | 20200930
+[22](https://leetcode-cn.com/problems/generate-parentheses/) | 括号生成 | 20200822 | 20200823 | 20200830 | 20200930
+[50](https://leetcode-cn.com/problems/powx-n/) | Pow(x, n) | 20200822 | 20200823 | 20200830 | 20200930
+[242](https://leetcode-cn.com/problems/valid-anagram/) | 有效的字母异位词 | 20200822 | 20200823 | 20200830 | 20200930
+[49](https://leetcode-cn.com/problems/group-anagrams/) | 字母异位词分组 | 20200822 | 20200823 | 20200830 | 20200930
+[239](https://leetcode-cn.com/problems/sliding-window-maximum/) | 滑动窗口最大值 | 20200822 | 20200823 | 20200830 | 20200930
