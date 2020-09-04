@@ -6,7 +6,29 @@
 
 // @lc code=start
 function lemonadeChange(bills: number[]): boolean {
-
+    let five = 0;
+    let ten = 0;
+    for (let bill of bills) {
+        if (bill === 5) {
+            five++;
+        } else if (bill === 10) {
+            five--;
+            ten++;
+        } else if (bill === 20) {
+            if (five > 0 && ten > 0) {
+                five--;
+                ten--;
+            } else if (five > 3) {
+                five -= 3;
+            } else {
+                return false;
+            }
+        }
+    }
+    if (five < 0) {
+        return false
+    }
+    return true;
 };
 // @lc code=end
 
