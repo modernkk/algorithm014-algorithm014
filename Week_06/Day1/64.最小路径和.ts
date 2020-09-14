@@ -5,7 +5,7 @@
  */
 
 // @lc code=start
-function minPathSum(grid: number[][]): number {
+export function minPathSum(grid: number[][]): number {
     let rows = grid.length;
     if (rows === 0) {
         return 0;
