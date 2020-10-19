@@ -6,7 +6,7 @@
 
 // @lc code=start
 function racecar(target: number): number {
-
+    // 看了题解也没弄明白
 };
 // @lc code=end
 
